@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student, CS, co-advised with Robin Walters
+role: Postdoc at Stanford University
 
 # Organizations/Affiliations
 organizations:
@@ -63,7 +63,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Students
+- Ph.D. Alumni
 
 site: https://pointw.github.io/
 
