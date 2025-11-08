@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Yizhe Zhu
+title: Zhang Ye
 
 # Username (this should match the folder name)
 authors:
-- Yizhe Zhu
+- Zhang Ye
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: M.S. student, Robotic (cs)
+role: M.S. student, Robotic (ECE)
 
 # Organizations/Affiliations
 organizations:
@@ -45,10 +45,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:zhu.yizhe@northeastern.edu'
+  link: 'mailto:ye.zhang1@northeastern.edu'
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=MhSyhtwAAAAJ&hl
+  link: https://scholar.google.com/citations?user=wd4Rc8YAAAAJ&hl
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -70,8 +70,8 @@ email: ""
 user_groups:
 - Students
 
-site: https://yizhezhu0925.github.io/yizhezhu0925/
+site: https://evenjohnyz.github.io/
 
 ---
 
-<meta http-equiv = "refresh" content = " 0 ; url = https://yizhezhu0925.github.io/yizhezhu0925/"/>
+<meta http-equiv = "refresh" content = " 0 ; url = https://evenjohnyz.github.io/"/>
